@@ -1,4 +1,4 @@
 # hourphp
 PHP MVC Framework
-# just study
-# refercence:fastphp
+just study
+refercence:fastphp
